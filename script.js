@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let inputField = documet.querySelector("#fname")
+let inputField = document.querySelector("#fname")
 
 inputField.addEventListener("blur", () =>{
 	let val = inputField.value;
